@@ -1,1 +1,185 @@
-test 
+
+body{
+    background-color:white;
+    
+}
+.seemingly{
+background-color: darkslategrey;
+color: floralwhite;
+box-sizing:content-box;
+    
+    
+    
+    
+
+}
+.float{
+    text-align:right;
+    text-transform:uppercase;
+    font-size:small;
+    background-color: gray;
+}
+
+.olu{
+  color:grey;
+}
+.wrapper{
+   padding: 0 auto;
+}
+.stress{
+    text-align:center;
+
+}
+.untenable{
+text-align:center;
+line-height: 20px;
+padding-bottom: 50px;
+font-size:175%;
+word-spacing: 2px;
+padding:5px 10px 5px 30px;
+padding-bottom: 70px;
+}
+.apani{
+background-color: white;
+}
+
+.koko{
+
+    width:400px;
+    margin-top:10px;
+    float: right;
+    height: 200px;
+
+}
+
+
+
+
+#finish{
+    background-color: darkslategrey;
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and ( min-width:700px){
+    .lovely{
+        display:inline;
+        width:60%;
+    }
+        .koala{
+          float:inline-start;
+          width: 60px;
+        }
+
+      
+            
+        
+        
+        .mehn{
+            text-align:justify;
+            text-transform: uppercase;
+            font-size:small;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        .olu{
+          color:grey;
+        }
+        .wrapper{
+           padding: 0 auto;
+        }
+        .stress{
+            text-align:center;
+        
+        }
+        .unbelievable{
+        text-align:center;
+        line-height: 20px;
+        padding-bottom: 50px;
+        font-size:175%;
+        word-spacing: 2px;
+        padding:5px 10px 5px 30px;
+        }
+        .apari{
+        background-color: white;
+        
+        }
+        .see{
+        padding:0 0 0 20px;
+        }
+      
+        
+        
+        #seefinish{
+            background-color:teal;
+            -moz-box-shadow: 10px 20px 10px grey inset:#333;
+
+        }
+
+}
+
+
+
+@media only screen and (min-width:100px){
+
+    .lovely{
+        display:inline;
+        width:60%;
+    }
+        .koala{
+          float:inline-start;
+          width: 60px;
+        }
+
+      
+            
+        
+        
+        .mehn{
+            text-align:justify;
+            text-transform: uppercase;
+            font-size:small;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        .olu{
+          color:grey;
+        }
+        .wrapper{
+           padding: 0 auto;
+        }
+        .stress{
+            text-align:center;
+        
+        }
+        .unbelievable{
+        text-align:center;
+        line-height: 20px;
+        padding-bottom: 50px;
+        font-size:175%;
+        word-spacing: 2px;
+        padding:5px 10px 5px 30px;
+        }
+        .apari{
+        background-color: white;
+        
+        }
+        .see{
+        padding:0 0 0 20px;
+        }
+      
+        
+        
+        #seefinish{
+            background-color:darkkhaki;
+           
+
+        }
